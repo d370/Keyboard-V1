@@ -9,3 +9,4 @@ I used 1400 mAh batteries (if you use smaller batteries feel free to shorten it)
 
 in terms of firmware am using one made by manna-harbour called miryoku.
 https://github.com/manna-harbour/miryoku
+(I plan on making my own at some point)
