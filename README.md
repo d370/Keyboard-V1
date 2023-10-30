@@ -1,6 +1,8 @@
 # Keyboard-V1
 My first keyboard design
 
+https://github.com/d370/Keyboard-V1/assets/58142550/65265f0c-0e3e-4d1e-812b-f4d5a4ed9e4a
+
 I have yet to name this keyboard as it is very much a work in progress but feel free to use it.
 
 It is a Bluetooth split keyboard inspired by the Corne keyboard. It is designed to fit my hands, I angled the columns and moved the thumb cluster left.
