@@ -1,7 +1,7 @@
 # Keyboard-V1
 My first keyboard design
 
-https://github.com/d370/Keyboard-V1/assets/58142550/65265f0c-0e3e-4d1e-812b-f4d5a4ed9e4a
+![IMG_7819](https://github.com/d370/Keyboard-V1/assets/58142550/65265f0c-0e3e-4d1e-812b-f4d5a4ed9e4a)
 
 I have yet to name this keyboard as it is very much a work in progress but feel free to use it.
 
